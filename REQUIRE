@@ -1,0 +1,7 @@
+julia 0.6
+PyCall
+PyPlot
+LaTeXStrings
+FileIO
+Colors
+ColorTypes
